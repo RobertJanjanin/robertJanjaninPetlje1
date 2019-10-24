@@ -1,0 +1,7 @@
+C:\Users\3.D\source\repos\robertJanjaninPetlje\robertJanjaninPetlje\bin\Debug\robertJanjaninPetlje.exe.config
+C:\Users\3.D\source\repos\robertJanjaninPetlje\robertJanjaninPetlje\bin\Debug\robertJanjaninPetlje.exe
+C:\Users\3.D\source\repos\robertJanjaninPetlje\robertJanjaninPetlje\bin\Debug\robertJanjaninPetlje.pdb
+C:\Users\3.D\source\repos\robertJanjaninPetlje\robertJanjaninPetlje\obj\Debug\robertJanjaninPetlje.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\robertJanjaninPetlje\robertJanjaninPetlje\obj\Debug\robertJanjaninPetlje.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\robertJanjaninPetlje\robertJanjaninPetlje\obj\Debug\robertJanjaninPetlje.exe
+C:\Users\3.D\source\repos\robertJanjaninPetlje\robertJanjaninPetlje\obj\Debug\robertJanjaninPetlje.pdb
